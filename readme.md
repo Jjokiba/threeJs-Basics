@@ -1,3 +1,6 @@
+# Three.js
+Site made following the tutorial about three js from Gary Simon at https://www.youtube.com/watch?v=pUgWfqWZWmM
+
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
