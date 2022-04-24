@@ -1,0 +1,44 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    font-family: 'Poppins';
+    background-color: rgb(24, 24, 24);
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    mix-blend-mode: exclusion;
+    outline: none;
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-size: 8rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+section{
+    height: 100vh;
+}
+
+/*# sourceMappingURL=main.css.map*/
